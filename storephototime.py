@@ -1,3 +1,4 @@
+#get the modify time of each photo
 import csv
 import os
 import datetime
